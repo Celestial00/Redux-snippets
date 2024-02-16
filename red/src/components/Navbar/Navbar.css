@@ -1,0 +1,57 @@
+.Navbar{
+
+        
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 120px;
+
+    position:sticky;
+    top: 0px;
+    background-color: var(--primary);
+}
+
+
+.Nav-Logo h2{
+
+    color: var(--tri-color);
+
+
+}
+
+.Nav-Menu{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    
+}
+
+.menu-tags a {
+    text-decoration: none;
+    color: white;
+}
+
+.join-now-btn{
+
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: var(--tri-color);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.menu-tags ul li {
+
+    list-style: none;
+    display: inline;
+    margin-left: 10px;
+
+}
+
+

@@ -1,0 +1,28 @@
+
+
+:root{
+
+    --primary: #14131a;
+    --secondary: #1c1b23;
+    --tri-color:	#FF5B22;
+    --primary-font: font-family: 'Bebas Neue', sans-serif; 
+    --secondary-font:font-family: 'Open Sans', sans-serif;
+
+  
+  }
+  
+
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+
+}
+    
+    body{
+
+        background-color: var(--primary);
+
+    }
